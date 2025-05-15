@@ -1,3 +1,1 @@
-**Student of the Tech World | Future CEO | Interested in Backend development> Currently learning**
-**A deep thinker**
-**Skills > Incoming**
+**Student of the Tech World | Future CEO | I'm interested in Backend development | A deep thinker**
